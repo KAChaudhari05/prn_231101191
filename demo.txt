@@ -1,2 +1,3 @@
 i am khushi
 ty computer
+this is devops practical
